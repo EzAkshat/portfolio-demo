@@ -4,7 +4,7 @@ fs.mkdirSync('dist', { recursive: true });
 
 fs.writeFileSync(
   'dist/index.html',
-  '<!doctype html><html><body><h1>Deployed with DeployMe</h1></body></html>',
+  '<!doctype html><html><body><h1>Akshat Portfolio — Version 2</h1></body></html>',
 );
 
 console.log('Static site built successfully.');
